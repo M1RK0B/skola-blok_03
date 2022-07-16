@@ -1,0 +1,24 @@
+﻿  main.c
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(41,8): error C2065: 'point': undeclared identifier
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(41,9): error C2224: left of '.X' must have struct/union type
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(41,22): error C2065: 'point': undeclared identifier
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(41,23): error C2224: left of '.Y' must have struct/union type
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(42,42): error C2065: 'point': undeclared identifier
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(42,42): error C2440: 'function': cannot convert from 'int' to 'COORD'
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(42,37): warning C4024: 'SetConsoleCursorPosition': different types for formal and actual parameter 2
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(56,8): error C2065: 'point': undeclared identifier
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(56,9): error C2224: left of '.X' must have struct/union type
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(56,22): error C2065: 'point': undeclared identifier
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(56,23): error C2224: left of '.Y' must have struct/union type
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(57,42): error C2065: 'point': undeclared identifier
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(57,42): error C2440: 'function': cannot convert from 'int' to 'COORD'
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(57,37): warning C4024: 'SetConsoleCursorPosition': different types for formal and actual parameter 2
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(61,10): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1250)
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(63,8): error C2065: 'point': undeclared identifier
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(63,9): error C2224: left of '.X' must have struct/union type
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(63,22): error C2065: 'point': undeclared identifier
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(63,23): error C2224: left of '.Y' must have struct/union type
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(64,42): error C2065: 'point': undeclared identifier
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(64,42): error C2440: 'function': cannot convert from 'int' to 'COORD'
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(64,37): warning C4024: 'SetConsoleCursorPosition': different types for formal and actual parameter 2
+C:\Users\KHM\Desktop\Mirko\blok_3_\blok3__\blok3__\main.c(301,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
